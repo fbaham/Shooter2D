@@ -13,3 +13,63 @@
 
 #---------------------------------- Content ---------------------------------#
 
+#begin Graphics/bgLayer1.xnb
+/copy:Graphics/bgLayer1.xnb
+
+#begin Graphics/bgLayer2.xnb
+/copy:Graphics/bgLayer2.xnb
+
+#begin Graphics/endMenu.xnb
+/copy:Graphics/endMenu.xnb
+
+#begin Graphics/explosion.xnb
+/copy:Graphics/explosion.xnb
+
+#begin Graphics/gameFont.xnb
+/copy:Graphics/gameFont.xnb
+
+#begin Graphics/laser.xnb
+/copy:Graphics/laser.xnb
+
+#begin Graphics/mainbackground.xnb
+/copy:Graphics/mainbackground.xnb
+
+#begin Graphics/mainMenu.xnb
+/copy:Graphics/mainMenu.xnb
+
+#begin Graphics/mine.xnb
+/copy:Graphics/mine.xnb
+
+#begin Graphics/mineAnimation.xnb
+/copy:Graphics/mineAnimation.xnb
+
+#begin Graphics/player.xnb
+/copy:Graphics/player.xnb
+
+#begin Graphics/shipAnimation.xnb
+/copy:Graphics/shipAnimation.xnb
+
+#begin Sound/explosion.xnb
+/copy:Sound/explosion.xnb
+
+#begin Sound/gameMusic.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sound/gameMusic.wma
+
+#begin Sound/gameMusic.xnb
+/copy:Sound/gameMusic.xnb
+
+#begin Sound/laserFire.xnb
+/copy:Sound/laserFire.xnb
+
+#begin Sound/menuMusic.wma
+/importer:WmaImporter
+/processor:SongProcessor
+/processorParam:Quality=Best
+/build:Sound/menuMusic.wma
+
+#begin Sound/menuMusic.xnb
+/copy:Sound/menuMusic.xnb
+
